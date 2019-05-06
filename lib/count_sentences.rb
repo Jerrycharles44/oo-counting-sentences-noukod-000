@@ -18,3 +18,5 @@ self.end_with?("!")
 self.split(/[\.\?\!] +/).count
   end
 end
+
+
